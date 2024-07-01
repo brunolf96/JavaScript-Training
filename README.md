@@ -1,6 +1,6 @@
 # Description in Portuguese
 
-&nbsp;&nbsp;&nbsp; Este repositório contém projetos gerados com o objetivo de praticar o desenvolvimento de códigos baseados em determinadas linguagens de programação. Estes projetos estão separados por pastas e se localizão dentro da pasta relacionada a linguaguem de programação ou as linguaguens de programação aplicadas no projeto.
+&nbsp;&nbsp;&nbsp; Este repositório contém projetos gerados com o objetivo de praticar o desenvolvimento de códigos baseados em determinadas linguagens de programação. Estes projetos estão separados por pastas e se localizarão dentro da pasta relacionada a linguaguem de programação ou as linguaguens de programação aplicadas no projeto.
 
 # Description in English
 
